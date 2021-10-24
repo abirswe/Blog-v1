@@ -1,2 +1,2 @@
-# Blog-v1
+# Django
 Simple Blog Site
